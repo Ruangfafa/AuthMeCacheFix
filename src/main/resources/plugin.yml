@@ -1,0 +1,5 @@
+name: AuthMeCacheFix
+main: me.ruangfafa.authmecachefix.AuthMeCacheFix
+version: 1.0
+api-version: 1.20
+depend: [AuthMe]
